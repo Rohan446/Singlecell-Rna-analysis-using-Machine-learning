@@ -1,6 +1,6 @@
 Instructions to execute this code:
 
-You can download this code as a zip file from this github repository or you can clone it using git clone https://github.com/priyatham1188/Dmml-Project.git
+You can download this code as a zip file from this github repository or you can clone it using git clone https://github.com/Rohan446/Singlecell-Rna-analysis-using-Machine-learning.git
 
 VScode:
 
